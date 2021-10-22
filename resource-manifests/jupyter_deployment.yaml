@@ -26,3 +26,4 @@ spec:
           name: jupyter-app
           ports:
             - containerPort: 8888
+            - containerPort: 8080
